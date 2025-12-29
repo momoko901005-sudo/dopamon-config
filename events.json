@@ -1,0 +1,24 @@
+  {
+    "version": 1,
+    "events": {
+      "zh-Hans": {
+        "active": true,
+        "title": "新春活动",
+        "description": "恭喜发财，红包拿来！",
+        "bannerColor": "#FF4444",
+        "redeemCode": "CNY2025",
+        "endDate": "2025-02-15"
+      },
+      "en": {
+        "active": false
+      },
+      "fr": {
+        "active": false
+      }
+    },
+    "redeemCodes": {
+      "zh-Hans": ["CNY2025", "SPRING888"],
+      "en": ["WELCOME2025"],
+      "fr": ["BIENVENUE2025"]
+    }
+  }
