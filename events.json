@@ -1,24 +1,20 @@
   {
-    "version": 1,
     "events": {
       "zh-Hans": {
-        "active": true,
-        "title": "新春活动",
-        "description": "恭喜发财，红包拿来！",
+        "active": true,        // 设为 false 关闭活动
+        "title": "春节活动",
+        "description": "领取新春红包！",
         "bannerColor": "#FF4444",
         "redeemCode": "CNY2025",
         "endDate": "2025-02-15"
       },
       "en": {
-        "active": false
-      },
-      "fr": {
-        "active": false
+        "active": true,
+        "title": "Valentine's Day",
+        "description": "Get love rewards!",
+        "bannerColor": "#FF69B4",
+        "redeemCode": "LOVE2025",
+        "endDate": "2025-02-14"
       }
-    },
-    "redeemCodes": {
-      "zh-Hans": ["CNY2025", "SPRING888"],
-      "en": ["WELCOME2025"],
-      "fr": ["BIENVENUE2025"]
     }
   }
