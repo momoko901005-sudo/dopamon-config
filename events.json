@@ -1,20 +1,34 @@
-  {
+ {
+    "version": 1,
     "events": {
       "zh-Hans": {
-        "active": true,        // 设为 false 关闭活动
-        "title": "春节活动",
-        "description": "领取新春红包！",
-        "bannerColor": "#FF4444",
-        "redeemCode": "CNY2025",
-        "endDate": "2025-02-15"
+        "active": true,
+        "title": "欢迎来到多芭兽世界！",
+        "description": "首发福利：输入兑换码领取好礼",
+        "bannerColor": "#FF6B6B",
+        "redeemCode": "WELCOME2025",
+        "endDate": "2026-06-30"
       },
       "en": {
         "active": true,
-        "title": "Valentine's Day",
-        "description": "Get love rewards!",
-        "bannerColor": "#FF69B4",
-        "redeemCode": "LOVE2025",
-        "endDate": "2025-02-14"
+        "title": "Welcome to DopaMon!",
+        "description": "Launch Special: Enter code for rewards",
+        "bannerColor": "#FF6B6B",
+        "redeemCode": "WELCOME2025",
+        "endDate": "2026-06-30"
+      },
+      "fr": {
+        "active": true,
+        "title": "Bienvenue sur DopaMon!",
+        "description": "Offre de lancement: Entrez le code",
+        "bannerColor": "#FF6B6B",
+        "redeemCode": "WELCOME2025",
+        "endDate": "2026-06-30"
       }
+    },
+    "redeemCodes": {
+      "zh-Hans": ["WELCOME2025"],
+      "en": ["WELCOME2025"],
+      "fr": ["WELCOME2025"]
     }
   }
