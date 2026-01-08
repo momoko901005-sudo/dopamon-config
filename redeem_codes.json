@@ -1,12 +1,24 @@
 [
   {
-    "code": "WELCOME2025",
-    "title": "欢迎礼包",
+    "code": "SPRING2026",
+    "title": "新春福利礼包",
     "rewards": [
-      {"type": "coins", "amount": 200},
-      {"type": "diamonds", "amount": 20}
+      {"type": "coins", "amount": 500},
+      {"type": "diamonds", "amount": 50}
     ],
-    "expireDate": "2026-12-31",
+    "expireDate": "2026-02-28",
+    "isActive": true
+  },
+  {
+    "code": "SORRY001",
+    "title": "Bug补偿",
+    "rewards": [
+      {"type": "coins", "amount": 1000},
+      {"type": "diamonds", "amount": 100}
+    ],
+    "expireDate": "2026-03-01",
+    "maxUses": 1,
+    "boundDeviceId": "BXA45G",
     "isActive": true
   }
 ]
