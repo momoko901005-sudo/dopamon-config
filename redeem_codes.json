@@ -1,12 +1,12 @@
 [
   {
-    "code": "SPRING2026",
+    "code": "NEWYEAR2026",
     "title": "新春福利礼包",
     "rewards": [
       {"type": "coins", "amount": 500},
       {"type": "diamonds", "amount": 50}
     ],
-    "expireDate": "2026-02-28",
+    "expireDate": "2026-12-28",
     "isActive": true
   },
   {
@@ -20,5 +20,14 @@
     "maxUses": 1,
     "boundDeviceId": "BXA45G",
     "isActive": true
-  }
+  },
+  {
+  "code": "GONGXIFACAI",
+  "title": "新年专属壁纸",
+  "rewards": [
+    {"type": "scene", "amount": 1, "itemId": "hidden_newyear"}
+  ],
+  "expireDate": "2026-12-28",
+  "isActive": true
+}
 ]
