@@ -1,0 +1,12 @@
+[
+  {
+    "code": "WELCOME2025",
+    "title": "欢迎礼包",
+    "rewards": [
+      {"type": "coins", "amount": 200},
+      {"type": "diamonds", "amount": 20}
+    ],
+    "expireDate": "2026-12-31",
+    "isActive": true
+  }
+]
