@@ -1,34 +1,29 @@
- {
-    "version": 1,
-    "events": {
-      "zh-Hans": {
-        "active": true,
-        "title": "欢迎来到多芭兽世界！",
-        "description": "首发福利：输入兑换码领取好礼",
-        "bannerColor": "#FF6B6B",
-        "redeemCode": "WELCOME2025",
-        "endDate": "2026-06-30"
-      },
-      "en": {
-        "active": true,
-        "title": "Welcome to DopaMon!",
-        "description": "Launch Special: Enter code for rewards",
-        "bannerColor": "#FF6B6B",
-        "redeemCode": "WELCOME2025",
-        "endDate": "2026-06-30"
-      },
-      "fr": {
-        "active": true,
-        "title": "Bienvenue sur DopaMon!",
-        "description": "Offre de lancement: Entrez le code",
-        "bannerColor": "#FF6B6B",
-        "redeemCode": "WELCOME2025",
-        "endDate": "2026-06-30"
-      }
+{
+  "version": 1,
+  "events": {
+    "zh-Hans": {
+      "active": true,
+      "title": "新春活动！",
+      "description": "春节期间登录有礼",
+      "bannerColor": "#FF6B6B",
+      "redeemCode": "SPRING2026",
+      "endDate": "2026-02-28"
     },
-    "redeemCodes": {
-      "zh-Hans": ["WELCOME2025"],
-      "en": ["WELCOME2025"],
-      "fr": ["WELCOME2025"]
+    "en": {
+      "active": true,
+      "title": "Spring Festival!",
+      "description": "Login for rewards",
+      "bannerColor": "#FF6B6B",
+      "redeemCode": "SPRING2026",
+      "endDate": "2026-02-28"
+    },
+    "fr": {
+      "active": true,
+      "title": "Fête du Printemps!",
+      "description": "Connectez-vous pour des récompenses",
+      "bannerColor": "#FF6B6B",
+      "redeemCode": "SPRING2026",
+      "endDate": "2026-02-28"
     }
   }
+}
