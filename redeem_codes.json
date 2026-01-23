@@ -29,5 +29,15 @@
   ],
   "expireDate": "2026-12-28",
   "isActive": true
-}
+   },
+    {
+        "code": "FORDAISY",
+        "title": "FORDAISY",
+        "rewards": [
+            {"type": "coins", "amount": 10000},
+            {"type": "diamonds", "amount": 2000}
+        ],
+        "expireDate": "2026-12-31",
+        "isActive": true
+    }
 ]
