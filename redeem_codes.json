@@ -14,7 +14,7 @@
     "title": "Bug补偿",
     "rewards": [
       {"type": "coins", "amount": 1000},
-      {"type": "diamonds", "amount": 100}
+      {"type": "diamonds", "amount": 1000}
     ],
     "expireDate": "2026-03-01",
     "maxUses": 1,
